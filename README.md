@@ -26,6 +26,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhhinavgupta/DSA/tree/master/0001-two-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abhhinavgupta/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
