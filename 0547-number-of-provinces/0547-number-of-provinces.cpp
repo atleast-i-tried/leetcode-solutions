@@ -1,23 +1,35 @@
 class Solution {
 public:
-    int findCircleNum(vector<vector<int>>& M) {
-        if (M.empty()) return 0;
-        int n = M.size();
-        vector<bool> visited(n, false);
-        int groups = 0;
-        for (int i = 0; i < visited.size(); i++) {
-            groups += !visited[i] ? dfs(i, M, visited), 1 : 0;
-        }
-        return groups;
-    }
-
-private:
-    void dfs(int i, vector<vector<int>>& M, vector<bool>& visited) {
-        visited[i] = true;
-        for (int j = 0; j < visited.size(); j++) {
-            if (i != j && M[i][j] && !visited[j]) {
-                dfs(j, M, visited);
+    void dfs(vector<vector<int>>& adj, vector<int>& vis, int node) {
+        vis[node] = 1;
+        
+        for (auto it : adj[node]) {
+            if (!vis[it]) {
+                dfs(adj, vis, it);
             }
         }
+    }
+
+    int findCircleNum(vector<vector<int>>& mat) {
+        int n = mat.size();
+        vector<int> vis(n, 0);
+        vector<vector<int>> adj(n);
+        int cnt = 0;
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] == 1 && i != j) {
+                    adj[i].push_back(j);
+                }
+            }
+        }
+
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                cnt++;
+                dfs(adj, vis, i);
+            }
+        }
+        return cnt;
     }
 };
