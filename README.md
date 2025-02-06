@@ -63,4 +63,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhhinavgupta/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhhinavgupta/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
