@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/abhhinavgupta/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhhinavgupta/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhhinavgupta/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhhinavgupta/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
