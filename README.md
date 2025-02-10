@@ -43,6 +43,7 @@ A collection of LeetCode questions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhhinavgupta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhhinavgupta/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
