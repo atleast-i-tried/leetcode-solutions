@@ -72,6 +72,7 @@ A collection of LeetCode questions
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhhinavgupta/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
+| [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
