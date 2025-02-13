@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [0001-two-sum](https://github.com/abhhinavgupta/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
 | [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
