@@ -60,6 +60,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -131,4 +132,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
