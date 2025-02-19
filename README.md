@@ -61,6 +61,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhhinavgupta/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/abhhinavgupta/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhhinavgupta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/abhhinavgupta/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
