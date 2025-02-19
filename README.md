@@ -69,6 +69,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
+| [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +160,16 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/abhhinavgupta/DSA/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
