@@ -28,3 +28,6 @@ public:
         return max(maxSum, totalSum - minSum);
     }
 }; 
+
+// think about it as a defected pipe
+// if a pipe is defective, we remove the defective part right, since we need circular sum, means we the subarray can be either from between or both the ends, for between classic kadane works, for both ends, remove defected pipe, that means minSum thing
