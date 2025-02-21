@@ -37,6 +37,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhhinavgupta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhhinavgupta/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
