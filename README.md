@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhhinavgupta/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhhinavgupta/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhhinavgupta/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhhinavgupta/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/abhhinavgupta/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
