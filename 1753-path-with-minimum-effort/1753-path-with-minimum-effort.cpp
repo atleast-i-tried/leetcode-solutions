@@ -17,10 +17,6 @@ public:
             int y = node.second.second;
             int currEffort = node.first;
 
-            if (x == m - 1 && y == n - 1) {
-                return currEffort;
-            }
-
             for (int i = 0; i < 4; i++) {
                 int a = x + dirs[i][0];
                 int b = y + dirs[i][1];
