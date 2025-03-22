@@ -22,6 +22,7 @@ A collection of LeetCode questions
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhhinavgupta/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhhinavgupta/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhhinavgupta/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhhinavgupta/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhhinavgupta/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
 |  |
