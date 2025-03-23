@@ -87,6 +87,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions
 | [0031-next-permutation](https://github.com/abhhinavgupta/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0283-move-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
