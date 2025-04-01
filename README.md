@@ -105,6 +105,7 @@ A collection of LeetCode questions
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhhinavgupta/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhhinavgupta/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
 | ------- |
