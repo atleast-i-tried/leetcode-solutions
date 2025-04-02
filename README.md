@@ -108,6 +108,7 @@ A collection of LeetCode questions
 | [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/abhhinavgupta/DSA/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhhinavgupta/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhhinavgupta/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
