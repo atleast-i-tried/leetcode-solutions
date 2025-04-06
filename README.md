@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhhinavgupta/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhhinavgupta/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
