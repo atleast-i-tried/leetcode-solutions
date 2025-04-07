@@ -15,6 +15,7 @@ public:
             if(i >= 1) {
                 max_diff = max(max_diff, max_num - arr[i]);
             }
+            
             max_num = max(max_num, (long long)arr[i]); 
         }
         return ans;
