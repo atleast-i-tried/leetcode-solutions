@@ -87,6 +87,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhhinavgupta/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhhinavgupta/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhhinavgupta/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhhinavgupta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/abhhinavgupta/DSA/tree/master/0041-first-missing-positive) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhhinavgupta/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhhinavgupta/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhhinavgupta/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
