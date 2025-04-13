@@ -170,6 +170,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhhinavgupta/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
+| [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhhinavgupta/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
