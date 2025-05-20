@@ -126,6 +126,7 @@ A collection of LeetCode questions
 | [3430-count-days-without-meetings](https://github.com/abhhinavgupta/DSA/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/abhhinavgupta/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/abhhinavgupta/DSA/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/abhhinavgupta/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhhinavgupta/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhhinavgupta/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Union Find
@@ -282,6 +283,7 @@ A collection of LeetCode questions
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhhinavgupta/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3639-zero-array-transformation-i](https://github.com/abhhinavgupta/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Shortest Path
 |  |
 | ------- |
