@@ -51,6 +51,7 @@ A collection of LeetCode questions
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhhinavgupta/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhhinavgupta/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions
 | [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhhinavgupta/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
 ## Sorting
@@ -276,6 +278,7 @@ A collection of LeetCode questions
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhhinavgupta/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhhinavgupta/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhhinavgupta/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
