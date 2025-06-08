@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/abhhinavgupta/DSA/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/abhhinavgupta/DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
