@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhhinavgupta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhhinavgupta/DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions
 | ------- |
 | [0015-3sum](https://github.com/abhhinavgupta/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 ## Divide and Conquer
 |  |
