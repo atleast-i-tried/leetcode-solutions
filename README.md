@@ -118,6 +118,7 @@ A collection of LeetCode questions
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhhinavgupta/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/abhhinavgupta/DSA/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhhinavgupta/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
+| [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 | [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhhinavgupta/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhhinavgupta/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
@@ -343,4 +346,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/abhhinavgupta/DSA/tree/master/0386-lexicographical-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
