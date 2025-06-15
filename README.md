@@ -228,6 +228,7 @@ A collection of LeetCode questions
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhhinavgupta/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions
 | ------- |
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhhinavgupta/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Enumeration
