@@ -131,6 +131,7 @@ A collection of LeetCode questions
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhhinavgupta/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/abhhinavgupta/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
