@@ -107,6 +107,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Monotonic Stack
 |  |
