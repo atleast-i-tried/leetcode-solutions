@@ -197,6 +197,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhhinavgupta/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/abhhinavgupta/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhhinavgupta/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
@@ -353,4 +356,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
