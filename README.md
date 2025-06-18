@@ -207,6 +207,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhhinavgupta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/abhhinavgupta/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhhinavgupta/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/abhhinavgupta/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
