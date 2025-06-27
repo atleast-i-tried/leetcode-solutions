@@ -124,6 +124,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/abhhinavgupta/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhhinavgupta/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/abhhinavgupta/DSA/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
