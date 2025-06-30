@@ -1,29 +1,41 @@
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& grid) {
+    bool canFinish(int numCourses, vector<vector<int>>& edges) {
         vector<vector<int>> adj(numCourses);
+
+        for(auto it: edges) {
+            adj[it[0]].push_back(it[1]);
+        }
+
         vector<int> indegree(numCourses, 0);
+
+        for(auto it: edges) {
+            indegree[it[1]]++;
+        }
+
         queue<int> q;
         vector<int> ans;
-
-        for(auto it: grid) {
-            adj[it[1]].push_back(it[0]);
-            indegree[it[0]]++;
-        }
 
         for(int i = 0; i < indegree.size(); i++) {
             if(indegree[i] == 0) q.push(i);
         }
 
         while(!q.empty()) {
-            int node = q.front();;
+            int node = q.front();
             q.pop();
             ans.push_back(node);
+
             for(auto it: adj[node]) {
-                indegree[it]--;
-                if(indegree[it] == 0) q.push(it);
+                if(--indegree[it] == 0) {
+                    q.push(it);
+                }
             }
         }
-        return numCourses == ans.size();
+
+        for(auto it: indegree) {
+            if(it != 0) return false;
+        }
+    
+        return true;
     }
-}; 
+};
