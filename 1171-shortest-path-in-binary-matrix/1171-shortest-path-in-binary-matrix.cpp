@@ -15,7 +15,7 @@ public:
 
         while (!q.empty()) {
             int size = q.size();
-            while (size--) {
+            while (size--) { 
                 auto node = q.front();
                 q.pop();
                 if (node.first == n - 1 && node.second == n - 1) {
