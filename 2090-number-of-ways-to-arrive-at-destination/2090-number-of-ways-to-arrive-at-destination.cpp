@@ -1,44 +1,37 @@
 class Solution {
 public:
     using ll = long long;
-    using p = pair<ll, int>; 
-    const int MOD = 1e9 + 7; 
-
+    const int MOD = 1e9 + 7;
     int countPaths(int n, vector<vector<int>>& roads) {
         vector<vector<pair<int, int>>> adj(n);
 
-        for (auto& road : roads) {
-            adj[road[0]].push_back({road[1], road[2]});
-            adj[road[1]].push_back({road[0], road[2]});
+        for(int i = 0; i < roads.size(); i++) {
+            adj[roads[i][0]].push_back({roads[i][1], roads[i][2]});
+            adj[roads[i][1]].push_back({roads[i][0], roads[i][2]});
         }
 
-        priority_queue<p, vector<p>, greater<p>> pq;
-        vector<ll> dist(n, LLONG_MAX);  
+        priority_queue<pair<ll, int>, vector<pair<ll, int>>, greater<pair<ll, int>>> pq;
+        vector<ll> distance(n, LLONG_MAX);
         vector<int> path(n, 0);
-        
+
         pq.push({0, 0});
-        dist[0] = 0;
+        distance[0] = 0;
         path[0] = 1;
 
-        while (!pq.empty()) {
-            auto [curDist, u] = pq.top();
+        while(!pq.empty()) {
+            auto [tillDist, node] = pq.top();
             pq.pop();
 
-            if (curDist > dist[u]) continue;  
-
-            for (auto [v, weight] : adj[u]) {
-                ll newDist = curDist + weight;
-                
-                if (newDist < dist[v]) {
-                    dist[v] = newDist;
-                    path[v] = path[u];  
-                    pq.push({dist[v], v});
-                } else if (newDist == dist[v]) {
-                    path[v] = (path[v] + path[u]) % MOD;  
+            for(auto [v, cost]: adj[node]) {
+                if(distance[v] > tillDist + cost) {
+                    distance[v] = tillDist + cost;
+                    path[v] = path[node];
+                    pq.push({distance[v], v});
+                } else if(distance[v] == tillDist + cost) {
+                    path[v] = (path[v] + path[node]) % MOD;
                 }
             }
         }
-        
         return path[n - 1];
     }
 };
