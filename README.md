@@ -101,6 +101,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhhinavgupta/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhhinavgupta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhhinavgupta/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/abhhinavgupta/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhhinavgupta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/abhhinavgupta/DSA/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhhinavgupta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/abhhinavgupta/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/abhhinavgupta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abhhinavgupta/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhhinavgupta/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/abhhinavgupta/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
