@@ -3,11 +3,9 @@ public:
     int maxScore(vector<int>& cardPoints, int k) {
         // basically we need to think of it as a pipe, remove the defected part
 
-        int right = 0;
-        int left = 0;
+        int right = 0, left = 0;
         int minScore = INT_MAX;
-        int totalSum = 0;
-        int score = 0;
+        int totalSum = 0, score = 0;
         int size = cardPoints.size() - k;
 
         for(int i: cardPoints) totalSum += i;
