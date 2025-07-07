@@ -150,6 +150,7 @@ A collection of LeetCode questions
 | [1171-shortest-path-in-binary-matrix](https://github.com/abhhinavgupta/DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/abhhinavgupta/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhhinavgupta/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abhhinavgupta/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhhinavgupta/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhhinavgupta/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions
 | ------- |
 | [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/abhhinavgupta/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhhinavgupta/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhhinavgupta/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhhinavgupta/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
