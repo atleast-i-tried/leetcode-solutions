@@ -57,6 +57,7 @@ A collection of LeetCode questions
 | [0389-find-the-difference](https://github.com/abhhinavgupta/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [0854-making-a-large-island](https://github.com/abhhinavgupta/DSA/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/abhhinavgupta/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/abhhinavgupta/DSA/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhhinavgupta/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/abhhinavgupta/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhhinavgupta/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -413,6 +418,7 @@ A collection of LeetCode questions
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhhinavgupta/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
+| [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
