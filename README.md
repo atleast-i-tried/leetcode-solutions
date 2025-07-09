@@ -279,6 +279,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhhinavgupta/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhhinavgupta/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/abhhinavgupta/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhhinavgupta/DSA/tree/master/0213-house-robber-ii) |
@@ -446,4 +448,8 @@ A collection of LeetCode questions
 | ------- |
 | [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhhinavgupta/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
