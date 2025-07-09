@@ -126,6 +126,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhhinavgupta/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/abhhinavgupta/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhhinavgupta/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/abhhinavgupta/DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/abhhinavgupta/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions
 | [0022-generate-parentheses](https://github.com/abhhinavgupta/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/abhhinavgupta/DSA/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhhinavgupta/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/abhhinavgupta/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhhinavgupta/DSA/tree/master/0213-house-robber-ii) |
