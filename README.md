@@ -181,6 +181,7 @@ A collection of LeetCode questions
 | [3639-zero-array-transformation-i](https://github.com/abhhinavgupta/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhhinavgupta/DSA/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhhinavgupta/DSA/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhhinavgupta/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhhinavgupta/DSA/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Union Find
 |  |
@@ -387,6 +388,7 @@ A collection of LeetCode questions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhhinavgupta/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abhhinavgupta/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhhinavgupta/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhhinavgupta/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhhinavgupta/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhhinavgupta/DSA/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Enumeration
 |  |
 | ------- |
