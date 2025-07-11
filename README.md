@@ -239,6 +239,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhhinavgupta/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/abhhinavgupta/DSA/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhhinavgupta/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/abhhinavgupta/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
