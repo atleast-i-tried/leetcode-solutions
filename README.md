@@ -167,6 +167,7 @@ A collection of LeetCode questions
 | [2262-solving-questions-with-brainpower](https://github.com/abhhinavgupta/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhhinavgupta/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhhinavgupta/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/abhhinavgupta/DSA/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhhinavgupta/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/abhhinavgupta/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhhinavgupta/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhhinavgupta/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhhinavgupta/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3430-count-days-without-meetings](https://github.com/abhhinavgupta/DSA/tree/master/3430-count-days-without-meetings) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/abhhinavgupta/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhhinavgupta/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhhinavgupta/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/abhhinavgupta/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhhinavgupta/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/abhhinavgupta/DSA/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhhinavgupta/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
