@@ -141,6 +141,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/abhhinavgupta/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/abhhinavgupta/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions
 | [0213-house-robber-ii](https://github.com/abhhinavgupta/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhhinavgupta/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
+| [0494-target-sum](https://github.com/abhhinavgupta/DSA/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions
 | [0039-combination-sum](https://github.com/abhhinavgupta/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
+| [0494-target-sum](https://github.com/abhhinavgupta/DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/abhhinavgupta/DSA/tree/master/2107-find-unique-binary-string) |
