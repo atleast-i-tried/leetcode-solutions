@@ -318,6 +318,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhhinavgupta/DSA/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/abhhinavgupta/DSA/tree/master/0155-min-stack) |
 | [3447-clear-digits](https://github.com/abhhinavgupta/DSA/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
@@ -470,4 +471,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhhinavgupta/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
