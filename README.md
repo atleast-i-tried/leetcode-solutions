@@ -141,6 +141,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/abhhinavgupta/DSA/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhhinavgupta/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/abhhinavgupta/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhhinavgupta/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhhinavgupta/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/abhhinavgupta/DSA/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhhinavgupta/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/abhhinavgupta/DSA/tree/master/0621-task-scheduler) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhhinavgupta/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions
 | [0050-powx-n](https://github.com/abhhinavgupta/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/abhhinavgupta/DSA/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhhinavgupta/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0909-stone-game](https://github.com/abhhinavgupta/DSA/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/abhhinavgupta/DSA/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/abhhinavgupta/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
