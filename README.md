@@ -133,6 +133,7 @@ A collection of LeetCode questions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhhinavgupta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhhinavgupta/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/abhhinavgupta/DSA/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/abhhinavgupta/DSA/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/abhhinavgupta/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/abhhinavgupta/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/abhhinavgupta/DSA/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/abhhinavgupta/DSA/tree/master/0389-find-the-difference) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhhinavgupta/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
