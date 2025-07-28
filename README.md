@@ -162,6 +162,7 @@ A collection of LeetCode questions
 | [1354-find-players-with-zero-or-one-losses](https://github.com/abhhinavgupta/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhhinavgupta/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/abhhinavgupta/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abhhinavgupta/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/abhhinavgupta/DSA/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/abhhinavgupta/DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions
 | [0547-number-of-provinces](https://github.com/abhhinavgupta/DSA/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/abhhinavgupta/DSA/tree/master/0854-making-a-large-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abhhinavgupta/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/abhhinavgupta/DSA/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhhinavgupta/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions
 | [0744-network-delay-time](https://github.com/abhhinavgupta/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/abhhinavgupta/DSA/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1706-min-cost-to-connect-all-points](https://github.com/abhhinavgupta/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhhinavgupta/DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/abhhinavgupta/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhhinavgupta/DSA/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -480,4 +483,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhhinavgupta/DSA/tree/master/0155-min-stack) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/abhhinavgupta/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
