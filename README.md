@@ -264,6 +264,7 @@ A collection of LeetCode questions
 | [0127-word-ladder](https://github.com/abhhinavgupta/DSA/tree/master/0127-word-ladder) |
 | [0389-find-the-difference](https://github.com/abhhinavgupta/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhhinavgupta/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/abhhinavgupta/DSA/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/abhhinavgupta/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions
 | [0322-coin-change](https://github.com/abhhinavgupta/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/abhhinavgupta/DSA/tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/abhhinavgupta/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhhinavgupta/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhhinavgupta/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/abhhinavgupta/DSA/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/abhhinavgupta/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
