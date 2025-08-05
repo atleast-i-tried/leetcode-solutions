@@ -10,6 +10,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhhinavgupta/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhhinavgupta/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/abhhinavgupta/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
