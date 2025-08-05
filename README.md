@@ -9,6 +9,7 @@ A collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/abhhinavgupta/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/abhhinavgupta/DSA/tree/master/0207-course-schedule) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions
 | [0102-binary-tree-level-order-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhhinavgupta/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhhinavgupta/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhhinavgupta/DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions
 | [0037-sudoku-solver](https://github.com/abhhinavgupta/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/abhhinavgupta/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/abhhinavgupta/DSA/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/abhhinavgupta/DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/abhhinavgupta/DSA/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/abhhinavgupta/DSA/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/abhhinavgupta/DSA/tree/master/1160-letter-tile-possibilities) |
